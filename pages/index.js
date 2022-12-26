@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to Pari Home Decore!"" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Decore Your home with with the best premium furniture. 
         </p>
       </main>
 
