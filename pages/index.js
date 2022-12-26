@@ -5,10 +5,10 @@ export default function Home() {
   return (
     <div className="container">
       <head>
-        {/* <link
+        <link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"
-        /> */}
+        />
       </head>
       <h1>Pari Home Decore Furniture</h1>
       <div class="btn-group">
@@ -19,7 +19,7 @@ export default function Home() {
       </div>
       <p> For More Information Contact : neernpatel@gmail.com </p>
       {/* <img src="public/netliheart.svg"> </img> */}
-      {/* <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script> */}
+      <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
     </div>
   )
 }
