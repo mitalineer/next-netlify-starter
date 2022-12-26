@@ -12,9 +12,6 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to Pari Home Decore!"" />
-        <p className="description">
-          Decore Your home with with the best premium furniture. 
-        </p>
       </main>
 
       <Footer />
