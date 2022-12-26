@@ -4,7 +4,14 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
-      <button class="button button4">12px</button>
+      <h1>Vertical Button Group</h1>
+      <div class="btn-group">
+        <button>Sofa</button>
+        <button>Bed</button>
+        <button>Wedding Furniture Set</button>
+        <button>Mattress</button>
+      </div>
+      <p> For More Information Contact : neernpatel@gmail.com </p>
     </div>
   )
 }
