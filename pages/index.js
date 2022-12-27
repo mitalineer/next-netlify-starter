@@ -18,7 +18,7 @@ export default function Home() {
         <button>Mattress</button>
       </div>
       <p> For More Information Contact : neernpatel@gmail.com </p>
-      {/* <img src="public/netliheart.svg"> </img> */}
+      <img src="/PariMouldingFurnitureShop.jpeg"> </img>
       <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
     </div>
   )
